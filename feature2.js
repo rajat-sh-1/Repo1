@@ -1,1 +1,1 @@
-prompt("hello, enter your name")
+console.log("hello, enter your name")
